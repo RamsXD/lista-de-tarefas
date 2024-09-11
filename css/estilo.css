@@ -19,7 +19,6 @@ header {
    flex-flow: row wrap;
    align-items: center;
    width: 90%;
-   border: 1px solid red;
    margin: auto auto;
 }
 
@@ -47,7 +46,6 @@ main {
    flex-flow: row wrap;
    width: 90%;
    margin: auto auto;
-   border: 1px solid blue;
    padding-top: 40px;
 }
 
@@ -75,21 +73,18 @@ main {
 
 .item-icone {
    flex: 20%;
-   /* border: 1px solid orange; */
    text-align: center;
    font-size: 2rem;
 }
 
 .item-nome {
    flex: 55%;
-   /* border: 1px solid deeppink; */
    font-size: 20px;
    font-weight: bold;
 }
 
 .item-botao {
    flex: 25%;
-   /* border: 1px solid orange; */
 }
 
 .delete {
